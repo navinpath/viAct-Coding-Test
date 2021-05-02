@@ -5,8 +5,6 @@ viAct Coding Test (Frontend Developer)
 
 A news reader app made using ReactJS and Redux.
 
-### Live here: https://news-reader-react.netlify.com/
-
 ## Features
 
 - When the app is opened for the first time, shown a list of news from the selected sources (sorted by
